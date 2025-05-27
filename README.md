@@ -1,2 +1,5 @@
-# 1desafioPorDiaHackerRank
-Estou realizando 1 desafio por dia na plataforma HackerRank para praticar e melhorar minhas habilidades em Java. O objetivo é evoluir constantemente na linguagem, aplicando conceitos de lógica de programação, estrutura de dados e algoritmos.
+## 💻 Desafios Diários - HackerRank em Java
+
+Este repositório é dedicado ao meu treino diário de Java, resolvendo **1 desafio por dia na plataforma HackerRank**.  
+O objetivo principal é acompanhar minha evolução na linguagem, praticar lógica de programação e fortalecer meu raciocínio com algoritmos e estruturas de dados.  
+Cada desafio resolvido representa um pequeno passo na minha jornada de aprendizado.
